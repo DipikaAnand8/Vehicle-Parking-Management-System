@@ -53,6 +53,12 @@ A simple, menu-driven Vehicle Parking Management System developed using C++. The
 | 6 | Reset all counts |
 | 0 | Exit the program |
 
+## Screenshots
+
+![Parking System](screenshots/parking-menu.png)
+
+![Vehicle Counts](screenshots/vehicle-counts.png)
+
 ## Limitations
 
 - Vehicle counts are stored in memory and reset when the program restarts.
